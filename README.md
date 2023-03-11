@@ -27,7 +27,7 @@
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Badbank Three Tires 2 🚀 Under construction...  🚧
+	🚧  Badbank 2.0 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
@@ -46,19 +46,20 @@
 
 ## :dart: About ##
 
-Describe your project
+This is the Bank aplication for the capstone project of the Web developing course with back-end incorporated.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Create users;\
+:heavy_check_mark: Withdraw money;\
+:heavy_check_mark: Deposit money;
+:heavy_check_mark: Watch all data storaged in the data base;
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
+- [MongoDB](https://www.mongodb.com/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
