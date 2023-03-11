@@ -52,8 +52,8 @@ This is the Bank aplication for the capstone project of the Web developing cours
 
 :heavy_check_mark: Create users;\
 :heavy_check_mark: Withdraw money;\
-:heavy_check_mark: Deposit money;
-:heavy_check_mark: Watch all data storaged in the data base;
+:heavy_check_mark: Deposit money;\
+:heavy_check_mark: Watch all data storaged in the data base;\
 
 ## :rocket: Technologies ##
 
@@ -62,12 +62,12 @@ The following tools were used in this project:
 - [MongoDB](https://www.mongodb.com/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [ExpressJS](https://expressjs.com/es/)
+- [Docker](https://www.docker.com/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Docker](https://www.docker.com/) and [Node.js](https://nodejs.org/en/) installed.
 
 ## :checkered_flag: Starting ##
 
